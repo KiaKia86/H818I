@@ -13,8 +13,6 @@
 
 # Bill of Materials (BOM)
 
-# Bill of Materials (BOM)
-
 | **Category** | **Item** | **Details** | **Est. Price** | **Purchase Link** |
 |--------------|----------|-------------|----------------|--------------------|
 | Structure | Fiberglass Cloth (6oz) | $21.99 |  | https://www.amazon.com/Fiberglass-Fabric-Glass-Repair-Surfboard/dp/B0DN5FFPSV |
@@ -29,6 +27,9 @@
 | Structure | Kevlar Shock Cord | $40.69 |  | https://www.apogeerockets.com/Building-Supplies/Shock-Cord/Kevlar-Shock-Cord-4500-20-feet-long-3-loops |
 
 **Total Estimated Cost: $359.91**
+
+**Note:**
+The PCB cost is not included in the bom, as it is funded by an external source (JLCPCB). Filament and other materials on hand are not considered either!
 
 ---
 
