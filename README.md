@@ -43,6 +43,9 @@ It uses:
 
 The avionics system is designed for flexibility, allowing reuse across future rocket designs.
 
+<img width="1844" height="907" alt="image" src="https://github.com/user-attachments/assets/f1f22f82-1174-4a93-b876-05d8aba43008" />
+<img width="1834" height="903" alt="image" src="https://github.com/user-attachments/assets/71b2364a-e897-47ec-a06d-d9ac346abbb9" />
+
 ---
 
 ### Why Did I Make This Rocket?
