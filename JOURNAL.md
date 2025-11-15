@@ -66,11 +66,17 @@ Wednesday – 3 hours<br>
 Thursday – 2 hours<br>
 Friday – 1 hour  
 
-- Finalized internal layout of avionics bay and wiring  
-- Added four pyro channels and four servo outputs for deployment and control  
-- Modeled outer airframe with correct tolerances for internal assemblies  
-- Designed and tested 3D-printed mock sections for fit checks  
-- Ran high-speed stress simulations on fins and airframe shell  
+- Started and finished the schematic for the flight controller
+- Added two pyro channels for deployment
+- Designed the bulkheads of the rocket
+- Started PCB layout using the SGGS rule (EMI protection)
+  
+**PCB schematic**
+<img width="1233" height="843" alt="image" src="https://github.com/user-attachments/assets/4a7db2ce-d559-4490-9643-0a3b16853a8f" />
+**Motor retainers and bulkheads**
+<img width="1508" height="973" alt="image" src="https://github.com/user-attachments/assets/fcff1183-0cb3-4656-aec1-7175c9701096" />
+**Pyro Channels**
+<img width="943" height="512" alt="image" src="https://github.com/user-attachments/assets/a58469f0-be52-43c0-8c34-40c8ebb9a6bf" />
 
 ---
 
@@ -83,11 +89,13 @@ Wednesday – 2 hours<br>
 Thursday – 1 hour<br>
 Friday – 2 hours  
 
-- Began physical build process and sourced aluminum and stainless steel stock  
-- Started 3D printing parts for structural components and avionics housing  
-- Prototyped and tested PCB connections  
-- Verified Teensy–ESP32 communication and telemetry output  
-- Created wiring diagram for all sensors (IMU, barometer, magnetometer, GPS, accelerometer)  
+- Finished the PCB layout with optimization
+- Double-checked all wiring
+- Checked design rule, and everything looked good
+- Started to download libraries in preparation for the PCBs
+
+**PCB Layout**
+<img width="1610" height="870" alt="image" src="https://github.com/user-attachments/assets/1c84e516-0cba-4431-99c0-ab711a996f41" />
 
 ---
 
@@ -100,20 +108,13 @@ Wednesday – 1 hour<br>
 Thursday – 2 hours<br>
 Friday – 1 hour  
 
-- Finished 3D-printed airframe components and motor housing  
-- Assembled avionics PCB and verified sensor output through test data  
-- Installed servos and wired pyro channels  
-- Assembled final rocket structure and performed weight and balance checks  
-- Began sanding, painting, and surface finishing  
+- Designed avionics enclosure
+- Added 2s battery support
+- Researched composites and practiced with friends
+- Researched things needed for recovery
+- Optimized BOM 
+
+**Avionics Bay**
+<img width="1510" height="896" alt="image" src="https://github.com/user-attachments/assets/16709fbd-01fe-4436-b4db-55301165a039" />
 
 ---
-
-# Launch Preparation  
-
-- **Expected Altitude:** 6,000 ft (≈1,829 m)  
-- **Expected Speed:** Mach 0.6 (≈204 m/s)  
-- **Motor Thrust:** 385 N (custom 38mm × 277mm solid motor)  
-- **Avionics:** Dual MCU (Teensy 4.1 + ESP32-S3) on 4-layer PCB  
-- **Sensors:** IMU, barometer, magnetometer, GPS, accelerometer  
-- **Competition:** FARS – Altitude and Speed Challenge  
-- **Launch Target:** Mid-November 2025  
