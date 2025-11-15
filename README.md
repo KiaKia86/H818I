@@ -21,11 +21,11 @@
 | Structure | Primer | $7.97 |  | https://www.amazon.com/Rust-Oleum-Automotive-260510-12-Ounce-Sandable/dp/B006ZLQ4HQ |
 | Structure | Paint | $6.19 |  | https://www.amazon.com/Rust-Oleum-249127-Painters-Purpose-12-Ounce/dp/B002BWOS7Q |
 | Structure | Plastic Drop Cloth | $9.47 |  | https://www.amazon.com/Plastic-Drop-Cloths-6-Pack-Disposable/dp/B0DQDWV1SV |
-| Structure | Aluminum Powder (5 microns) | $21.99 |  | https://www.amazon.com/Aluminum-Oxide-800-mesh-lb/dp/B01CVBXDF4 |
 | Structure | Parachute (36 inch) | $18.69 |  | https://www.apogeerockets.com/Building-Supplies/Parachutes/Larger-than-24in/36in-Printed-Nylon-Parachute/Review?reviews_id=7759 |
 | Structure | Kevlar Shock Cord | $40.69 |  | https://www.apogeerockets.com/Building-Supplies/Shock-Cord/Kevlar-Shock-Cord-4500-20-feet-long-3-loops |
+| Avionics |PCBA Shipping Cost | $42.22 |  | N/A Custom Quote |
 
-**Total Estimated Cost: $359.91**
+**Total Estimated Cost: $380.15
 
 **Note:**
 The PCB cost is not included in the bom, as it is funded by an external source (JLCPCB). Filament and other materials on hand are not considered either!
