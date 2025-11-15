@@ -16,12 +16,18 @@ Friday – 1 hour<br>
 Saturday – 3 hours<br>
 Sunday – 2 hours  
 
-- Began detailed concept and mission planning  
-- Created flight model and rough mass breakdown  
-- Designed early sketches for motor and avionics housing  
-- Selected materials: 6061 aluminum for the motor casing and 304 stainless steel for the nozzle  
-- Simulated first flight profile (target: 6,000 ft at Mach 0.6)  
-- Modeled nose cone, avionics bay, and recovery section in Fusion 360  
+- Started to plan the rocket
+- Created an open rocket simulation to predict how fast the rocket would go
+- Made sketches and a model (Very rough) to get an idea of what the rocket would look like 
+- Researched materials for motor (304 steel and 6061 aluminum)
+- Modeled nose cone and body tube in Fusion 360
+
+**Open Rocket Simulation**
+<img width="1917" height="1037" alt="image" src="https://github.com/user-attachments/assets/3cc2f56d-c38b-4596-a34e-4fe9b2cf2af6" />
+**Body Tube**
+<img width="1511" height="897" alt="image" src="https://github.com/user-attachments/assets/f6803131-27e9-4f41-b6ac-8e7e35555158" />
+**Nose Cone**
+<img width="1507" height="977" alt="image" src="https://github.com/user-attachments/assets/a91634b8-e3ef-4782-9726-66f7fbfa438f" />
 
 ---
 
