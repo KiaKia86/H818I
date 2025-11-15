@@ -40,12 +40,20 @@ Wednesday – 3 hours<br>
 Thursday – 2 hours<br>
 Friday – 1 hour  
 
-- Designed and finalized motor geometry (38mm × 277mm, 385 N thrust)  
-- Modeled grain holders and retention system  
-- Started designing 4-layer avionics PCB (Teensy 4.1 + ESP32-S3)  
-- Planned data flow and LoRa communication layout  
-- Designed fin structure and servo mounts  
-- Confirmed center of gravity and stability margin through simulations  
+- Designed the finalized the motor size (38mm x 277mm, with 385N of thrust) 
+- Modeled grain holders  
+- Started designing 4-layer avionics PCB  
+- Designed fins based on the openrocket simulation and data  
+- Confirmed center of gravity and stability margin through simulations
+
+**Full Motor Design**
+<img width="1513" height="899" alt="image" src="https://github.com/user-attachments/assets/76187186-b956-41a6-b797-59edf7cd36af" />
+**Motor Cross Section**
+<img width="1504" height="971" alt="image" src="https://github.com/user-attachments/assets/cdd22f91-3df7-423c-865b-20e4224f3c21" />
+**Propellant Case Mold**
+<img width="1520" height="970" alt="image" src="https://github.com/user-attachments/assets/0ab84a35-7681-4e43-9b88-b9381ef92c39" />
+**Fins**
+<img width="1509" height="896" alt="image" src="https://github.com/user-attachments/assets/1dd4c108-24bf-44b3-ad5a-326ab566a2cf" />
 
 ---
 
